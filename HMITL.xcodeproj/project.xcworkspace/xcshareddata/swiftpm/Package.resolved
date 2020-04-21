@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Toaster",
+        "repositoryURL": "https://github.com/devxoul/Toaster",
+        "state": {
+          "branch": null,
+          "revision": "ffb6c746a97a5e872f84b630e494df9ef8832478",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
